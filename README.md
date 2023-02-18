@@ -1,6 +1,14 @@
 # Best Independent Set problem
 ## Solving by iterative deepening and hill climbing with random restart
 
+###  The “Best Independent Set” problem
+- Input: An undirected graph G, in which each vertex is marked by a positive value ;
+and a target value T.
+- Goal: A set of vertices S such that 
+  - no two vertices in S are connected by an edge
+in G; and 
+  - the total value of the vertices in S is at least T.
+
 ### Input
 Input should be a text file named "input.txt" in the same working directory as the code with the following contents:
 - Line 1: The target (a positive integer) and flags: "V" for verbose output or "C" for compact output. For the hill-climbing program, the number of random restarts to run.
