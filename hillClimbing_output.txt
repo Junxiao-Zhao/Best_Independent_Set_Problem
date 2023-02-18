@@ -1,0 +1,41 @@
+﻿Randomly chosen start state: A B D
+A B D Value=18. Error=8.
+Neighbors:
+B D Value=15. Error=8.
+A D Value=13. Error=5.
+A B C D Value=24. Error=11.
+A B Value=8. Error=13.
+A B D E Value=31. Error=18.
+
+Move to A D Value=13. Error=5.
+Neighbors:
+D Value=10. Error=8.
+A B D Value=18. Error=8.
+A C D Value=19. Error=3.
+A Value=3. Error=15.
+A D E Value=26. Error=10.
+
+Move to A C D Value=19. Error=3.
+Neighbors:
+C D Value=16. Error=2.
+A C Value=9. Error=12.
+A C D E Value=32. Error=19.
+
+Move to C D Value=16. Error=2.
+Neighbors:
+B C D Value=21. Error=5.
+C Value=6. Error=12.
+C D E Value=29. Error=16.
+
+Search failed
+
+Randomly chosen start state: B
+B Value=5. Error=13.
+Neighbors:
+A B Value=8. Error=13.
+{} Value=0. Error=18.
+B C Value=11. Error=7.
+B D Value=15. Error=8.
+B E Value=18. Error=0.
+
+Found solution B E Value=18. Error=0.

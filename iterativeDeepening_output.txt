@@ -1,0 +1,16 @@
+﻿Depth=1.
+A Value=3.
+B Value=5.
+C Value=6.
+D Value=10.
+E Value=13.
+
+Depth=2.
+A Value=3.
+A D Value=13.
+A E Value=16.
+B Value=5.
+B C Value=11.
+B E Value=18.
+
+Found solution B E Value=18.
